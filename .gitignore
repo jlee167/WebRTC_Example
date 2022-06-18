@@ -4,3 +4,6 @@ express-bare/dist*
 express-bare/node_modules
 express-bare/js/*.js
 express-bare/index.js
+
+nestjs/**/dist
+nestjs/**/node_modules
